@@ -1,4 +1,4 @@
-package command.simple;
+package command;
 
 public class LightOnCommand implements Command {
 
