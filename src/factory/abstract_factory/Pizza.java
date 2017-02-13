@@ -10,7 +10,7 @@ public abstract class Pizza {
 	abstract void prepare();
 	
 	void bake() {
-		System.out.println("Bake for 25 minuts at 350");
+		System.out.println("Bake for 25 minutes at 350");
 	}
 	
 	void cut() {
@@ -18,7 +18,7 @@ public abstract class Pizza {
 	}
 	
 	void box() {
-		System.out.println("Place pizza in offical PizzaStore box");
+		System.out.println("Place pizza in official PizzaStore box");
 	}
 
 	String getName() {
